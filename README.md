@@ -38,7 +38,7 @@
     cors
     ```
 
-    After installing your packages, create the `dev` script inside your `package.json` for your concurrrently command. Also, finish up your `tsconfig` compiler options, add your desired port inside `.env`, and exclude the `node_modules/` and `.env` in your `.gitignore` file.
+    After installing your packages, create the `dev` script inside your `package.json` for your concurrrently command. Also, finish up your `tsconfig` compiler options and add your desired port inside the `.env` file.
 
 2. Create your server by creating a `server.ts` file inside your `backend/` directory. Using an in-memory database, set up your Express routes for the employees object as provided below:
 
