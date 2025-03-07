@@ -1,10 +1,10 @@
 # NodeJS Lab Day 1 - Full Stack Express BREAD App
 
-Goal: Create a full stack application using Node + Express with TypeScript on the backend.
+**Goal:** Create a full stack application using Node + Express with TypeScript on the backend.
 
-## Instructions
+## Instructions 📖
 
-### Backend
+### Backend 🛠️
 
 1. Set up the backend with all the necessary files and packages you will need inside the `backend/` directory:
 
@@ -72,18 +72,18 @@ Goal: Create a full stack application using Node + Express with TypeScript on th
 
 ---
 
-### Frontend
+### Frontend 🖥️
 
 For the frontend, create an `index.html` and `app.js` file inside your `frontend/` directory and run it with Live Server (Go Live). Recreate the design I provided, you can add CSS if you like.
 
 Send fetch requests using `GET`, `POST`, `PUT`, `DELETE` methods to your backend.
 
-- List Employees - List all employees
-    - View button - Show employee info on the right section
-    - Edit button - Fill the fields inside the **Edit Employee** form
-    - Delete button - Delete employee
-- Search and View Employees button - Show results on the **View Employee/s Info** section
-- Add Employee form - Creates a new employee
-- Edit Employee form - Edit employee info
+- **List Employees** - List all employees
+    - *View button* - Show employee info on the right section
+    - *Edit button* - Fill the fields inside the **Edit Employee** form
+    - *Delete button* - Delete employee
+- **Search and View Employees button** - Show results on the **View Employee/s Info** section
+- **Add Employee form** - Creates a new employee
+- **Edit Employee form** - Edit employee info
 
 Good luck! 🎉🎉🎉
