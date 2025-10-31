@@ -27,12 +27,12 @@
     @types/cors
     nodemon
     typescript
+    concurrently
     ```
 
     **Prod Packages (npm i ...)**
 
     ```bash
-    concurrently
     express
     dotenv
     uuid
